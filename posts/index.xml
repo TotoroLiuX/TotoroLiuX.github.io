@@ -6,17 +6,17 @@
     <description>Recent content in Posts on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://totoroliux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://totoroliux.github.io/2014/svm/</link>
-      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Support Vector Machine</title>
+      <link>https://totoroliux.github.io/2019/svm/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://totoroliux.github.io/2014/svm/</guid>
+      <guid>https://totoroliux.github.io/2019/svm/</guid>
       <description>Support Vector Machine A classicial discriminative model.</description>
     </item>
     
