@@ -5,11 +5,20 @@
     <link>https://totoroliux.github.io/categories/</link>
     <description>Recent content in Categories on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh_cn</language>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://totoroliux.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://totoroliux.github.io/categories/uncategorized/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/categories/uncategorized/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ML</title>
@@ -35,15 +44,6 @@
       <pubDate>Mon, 24 Jul 2017 18:36:00 +0200</pubDate>
       
       <guid>https://totoroliux.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncategorized</title>
-      <link>https://totoroliux.github.io/categories/uncategorized/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://totoroliux.github.io/categories/uncategorized/</guid>
       <description></description>
     </item>
     

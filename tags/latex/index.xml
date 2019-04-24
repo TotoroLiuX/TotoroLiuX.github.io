@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX on LeaveIt</title>
+    <link>https://totoroliux.github.io/tags/latex/</link>
+    <description>Recent content in LaTeX on LeaveIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://totoroliux.github.io/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Latex for Academic</title>
+      <link>https://totoroliux.github.io/2019/latex/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/latex/</guid>
+      <description>Bibliographic Style &amp;rdquo;&amp;rsquo; \usepackage[numbers]{natbib} # the numbered scheme \usepackage[authoryear]{natbib} # the author-year scheme \usepackage[authoryear,longnamesfirst]{natbib} &amp;ldquo;&amp;rsquo;</description>
+    </item>
+    
+  </channel>
+</rss>

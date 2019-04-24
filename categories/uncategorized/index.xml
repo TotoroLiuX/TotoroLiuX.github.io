@@ -5,11 +5,30 @@
     <link>https://totoroliux.github.io/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <language>zh_cn</language>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://totoroliux.github.io/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git学习笔记</title>
+      <link>https://totoroliux.github.io/2019/git/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/git/</guid>
+      <description> Git学习 最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。
+刚写该博客就产生了一个错误，尴尬！！！ </description>
+    </item>
+    
+    <item>
+      <title>Latex for Academic</title>
+      <link>https://totoroliux.github.io/2019/latex/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/latex/</guid>
+      <description>Bibliographic Style &amp;rdquo;&amp;rsquo; \usepackage[numbers]{natbib} # the numbered scheme \usepackage[authoryear]{natbib} # the author-year scheme \usepackage[authoryear,longnamesfirst]{natbib} &amp;ldquo;&amp;rsquo;</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
