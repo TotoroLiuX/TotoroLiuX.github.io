@@ -38,7 +38,7 @@
 &lt;td&gt;健身房&lt;/td&gt;
 &lt;td&gt;球感 速度&lt;/td&gt;
 &lt;td&gt;踢球 力量&lt;/td&gt;
-&lt;td&gt;训练 力量&lt;/td&gt;
+&lt;td&gt;健身房  训练 力量&lt;/td&gt;
 &lt;td&gt;球赛&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -55,9 +55,9 @@
 &lt;tr&gt;
 &lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
 &lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
 &lt;td&gt;&amp;radic;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;radic;&lt;/td&gt;
+&lt;td&gt;&amp;radic;&lt;/td&gt;
 &lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
 &lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
 &lt;/tr&gt;
@@ -68,8 +68,28 @@
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
