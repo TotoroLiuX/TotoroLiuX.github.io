@@ -5,8 +5,76 @@
     <description>Recent content in LeaveIt on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自我训练计划</title>
+      <link>https://totoroliux.github.io/2019/%E8%87%AA%E8%AE%AD%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/%E8%87%AA%E8%AE%AD%E8%AE%A1%E5%88%92/</guid>
+      <description>
+
+&lt;h2 id=&#34;自训计划&#34;&gt;自训计划&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SUN&lt;/th&gt;
+&lt;th&gt;MON&lt;/th&gt;
+&lt;th&gt;TUE&lt;/th&gt;
+&lt;th&gt;WED&lt;/th&gt;
+&lt;th&gt;THU&lt;/th&gt;
+&lt;th&gt;FRI&lt;/th&gt;
+&lt;th&gt;SAT&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;球赛&lt;/td&gt;
+&lt;td&gt;球感 速度&lt;/td&gt;
+&lt;td&gt;健身房&lt;/td&gt;
+&lt;td&gt;球感 速度&lt;/td&gt;
+&lt;td&gt;踢球 力量&lt;/td&gt;
+&lt;td&gt;训练 力量&lt;/td&gt;
+&lt;td&gt;球赛&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;29&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Git学习笔记</title>
@@ -29,10 +97,13 @@
 
 &lt;p&gt;刚写该博客就产生了一个错误，尴尬！！！
 &lt;img src=&#34;https://totoroliux.github.io/static/error1.PNG&#34; alt=&#34;Git&#34; /&gt;
-之前学习时使用得是英文，换成中文后提示出错，因此错误原因很可能是编码出错，可能的解决方案如下
-+ config.toml 里面有一个参数可以设置语言代码(LanguageCode)
-+ hugo本身有些设置可以处理编码，需要在网络上查找
-+ 编辑器编码设置，我在Windows下第一次使用Vim，不知道怎么设置(最开始因为对Vim不熟悉没去设置导致绕了很大弯路)&lt;/p&gt;
+之前学习时使用得是英文，换成中文后提示出错，因此错误原因很可能是编码出错，可能的解决方案如下&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;config.toml 里面有一个参数可以设置语言代码(LanguageCode)&lt;/li&gt;
+&lt;li&gt;hugo本身有些设置可以处理编码，需要在网络上查找&lt;/li&gt;
+&lt;li&gt;编辑器编码设置，我在Windows下第一次使用Vim，不知道怎么设置(最开始因为对Vim不熟悉没去设置导致绕了很大弯路)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -2136,18 +2207,6 @@ so, such as in this example:&lt;/p&gt;
   {{end}}&amp;lt;/ul&amp;gt;
 &amp;lt;/nav&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://totoroliux.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://totoroliux.github.io/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a graduate student majoring in Control Engineering in &lt;a href=&#34;https://www.xmu.edu.cn/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Xiamen University&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Website powered by Hugo and Github.&lt;/p&gt;
 </description>
     </item>
     
