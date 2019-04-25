@@ -21,75 +21,75 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;SUN&lt;/th&gt;
-&lt;th&gt;MON&lt;/th&gt;
-&lt;th&gt;TUE&lt;/th&gt;
-&lt;th&gt;WED&lt;/th&gt;
-&lt;th&gt;THU&lt;/th&gt;
-&lt;th&gt;FRI&lt;/th&gt;
-&lt;th&gt;SAT&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;SUN&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;MON&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;TUE&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;WED&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;THU&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;FRI&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;SAT&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;球赛&lt;/td&gt;
-&lt;td&gt;球感 速度&lt;/td&gt;
-&lt;td&gt;健身房&lt;/td&gt;
-&lt;td&gt;球感 速度&lt;/td&gt;
-&lt;td&gt;踢球 力量&lt;/td&gt;
-&lt;td&gt;健身房  训练 力量&lt;/td&gt;
-&lt;td&gt;球赛&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;球赛&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;球感 速度&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;健身房&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;球感 速度&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;踢球 力量&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;健身房  训练 力量&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;球赛&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;21&lt;/td&gt;
-&lt;td&gt;22&lt;/td&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;25&lt;/td&gt;
-&lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;21&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;24&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;25&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;27&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;radic;&lt;/td&gt;
-&lt;td&gt;&amp;radic;&lt;/td&gt;
-&lt;td&gt;&amp;radic;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;radic;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;radic;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;radic;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;mdash;&amp;mdash;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;29&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;28&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;29&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -109,8 +109,8 @@
 &lt;p&gt;最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。&lt;/p&gt;
 
 &lt;div align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; width=&#34;50&#34; height=&#34;50&#34; align=center&gt;
-&lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; align=center&gt;
+&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; width=&#34;10&#34; height=&#34;10&#34; align=center&gt;
+&lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; width=&#34;10&#34; height=&#34;10&#34; align=center&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; /&gt; &lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; /&gt;&lt;/p&gt;
@@ -124,6 +124,8 @@
 &lt;li&gt;hugo本身有些设置可以处理编码，需要在网络上查找&lt;/li&gt;
 &lt;li&gt;编辑器编码设置，我在Windows下第一次使用Vim，不知道怎么设置(最开始因为对Vim不熟悉没去设置导致绕了很大弯路)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;最后发现是编辑器编码设置有问题，我用EmEditor将编码方式设置唯UTF-8无签名后，编译成功。&lt;/p&gt;
 </description>
     </item>
     
