@@ -198,12 +198,10 @@
 
 &lt;p&gt;最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。&lt;/p&gt;
 
-&lt;div align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; width=&#34;10&#34; height=&#34;10&#34; align=center&gt;
-&lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; width=&#34;10&#34; height=&#34;10&#34; align=center&gt;
+&lt;div align=&#34;center&#34; float=&#34;left&#34;&gt;
+&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; width=&#34;20&#34; height=&#34;20&#34; align=center&gt;
+&lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; width=&#34;20&#34; height=&#34;20&#34; align=center&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; /&gt; &lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;刚写该博客就产生了一个错误，尴尬！！！
 &lt;img src=&#34;https://totoroliux.github.io/static/error1.PNG&#34; alt=&#34;Git&#34; /&gt;
