@@ -28,7 +28,11 @@
 &lt;p&gt;&lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; /&gt; &lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;刚写该博客就产生了一个错误，尴尬！！！
-&lt;img src=&#34;https://totoroliux.github.io/static/error1.PNG&#34; alt=&#34;Git&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://totoroliux.github.io/static/error1.PNG&#34; alt=&#34;Git&#34; /&gt;
+之前学习时使用得是英文，换成中文后提示出错，因此错误原因很可能是编码出错，可能的解决方案如下
++ config.toml 里面有一个参数可以设置语言代码(LanguageCode)
++ hugo本身有些设置可以处理编码，需要在网络上查找
++ 编辑器编码设置，我在Windows下第一次使用Vim，不知道怎么设置(最开始因为对Vim不熟悉没去设置导致绕了很大弯路)&lt;/p&gt;
 </description>
     </item>
     

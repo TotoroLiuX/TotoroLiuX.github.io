@@ -17,8 +17,8 @@
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://totoroliux.github.io/2019/git/</guid>
-      <description> Git学习 最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。
- 刚写该博客就产生了一个错误，尴尬！！！ </description>
+      <description>Git学习 最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。
+ 刚写该博客就产生了一个错误，尴尬！！！ 之前学习时使用得是英文，换成中文后提示出错，因此错误原因很可能是编码出错，可能的解决方案如下 + config.toml 里面有一个参数可以设置语言代码(LanguageCode) + hugo本身有些设置可以处理编码，需要在网络上查找 + 编辑器编码设置，我在Windows下第一次使用Vim，不知道怎么设置(最开始因为对Vim不熟悉没去设置导致绕了很大弯路)</description>
     </item>
     
     <item>
