@@ -17,7 +17,7 @@
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://totoroliux.github.io/2019/%E8%87%AA%E8%AE%AD%E8%AE%A1%E5%88%92/</guid>
-      <description> 自训计划    SUN MON TUE WED THU FRI SAT     球赛 球感 速度 健身房 球感 速度 踢球 力量 健身房 训练 力量 球赛   21 22 23 24 25 26 27     &amp;radic; &amp;radic; &amp;radic;     28 29 30       -            1 2 3 4      &amp;ndash; - &amp;ndash; &amp;ndash;   5 6 7 8 9 10 11      &amp;ndash; - &amp;ndash; &amp;ndash;   12 13 14 15 16 17 18      &amp;ndash; - &amp;ndash; &amp;ndash;   19 20 21 22 23 24 25      &amp;ndash; - &amp;ndash; &amp;ndash;   26 27 28 29 30 31       &amp;ndash; - &amp;ndash; &amp;ndash;    </description>
+      <description> 自训计划    SUN MON TUE WED THU FRI SAT     球赛 球感 速度 健身房 球感 速度 踢球 力量 健身房 训练 力量 球赛   21 22 23 24 25 26 27     &amp;radic; &amp;radic; &amp;radic; &amp;times;    28 29 30       -            1 2 3 4      &amp;ndash; - &amp;ndash; &amp;ndash;   5 6 7 8 9 10 11      &amp;ndash; - &amp;ndash; &amp;ndash;   12 13 14 15 16 17 18      &amp;ndash; - &amp;ndash; &amp;ndash;   19 20 21 22 23 24 25      &amp;ndash; - &amp;ndash; &amp;ndash;   26 27 28 29 30 31       &amp;ndash; - &amp;ndash; &amp;ndash;    </description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       
       <guid>https://totoroliux.github.io/2019/git/</guid>
       <description>Git学习 最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。
- 刚写该博客就产生了一个错误，尴尬！！！ 之前学习时使用得是英文，换成中文后提示出错，因此错误原因很可能是编码出错，可能的解决方案如下
+  编码错误 刚写该博客就产生了一个错误，尴尬！！！ 之前学习时使用得是英文，换成中文后提示出错，因此错误原因很可能是编码出错，可能的解决方案如下
  config.toml 里面有一个参数可以设置语言代码(LanguageCode) hugo本身有些设置可以处理编码，需要在网络上查找 编辑器编码设置，我在Windows下第一次使用Vim，不知道怎么设置(最开始因为对Vim不熟悉没去设置导致绕了很大弯路)  最后发现是编辑器编码设置有问题，我用EmEditor将编码方式设置唯UTF-8无签名后，编译成功。</description>
     </item>
     
