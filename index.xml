@@ -198,10 +198,11 @@
 
 &lt;p&gt;最近学习利用github page搭建自己的个人博客，以前学习过一点Git，但没有深入学习，这次搭建个人网站时遇到一些问题，打算把这些问题以及个人解决方法记录下来。&lt;/p&gt;
 
-&lt;div&gt;
+&lt;p&gt;&lt;div&gt;
 &lt;img src=&#34;https://totoroliux.github.io/static/Git.png&#34; alt=&#34;Git&#34; width=&#34;30&#34; height=&#34;30&#34; align=&#34;left&#34;&gt;
 &lt;img src=&#34;https://totoroliux.github.io/static/Octocat.png&#34; alt=&#34;Github&#34; width=&#34;30&#34; height=&#34;30&#34; align=&#34;left&#34;&gt;
 &lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;编码错误&#34;&gt;编码错误&lt;/h3&gt;
 
