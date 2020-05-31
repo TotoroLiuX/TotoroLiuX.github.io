@@ -6,10 +6,22 @@
     <description>Recent content in Posts on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://totoroliux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Schedule of</title>
+      <link>https://totoroliux.github.io/2019/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3/</guid>
+      <description>已完成
+本人概况 本人本科在厦门，硕士也在厦门，2019年2月份换专业申请意大利应用数学硕士项目 (Mathematical Engineering)，4月份收到Offer letter，按要求完成一些步骤后， 收到admission letter，4到5月临近毕业季，5月开始各种找资料，5月中下旬毕业答辩 结束后开始准备。
+主要步骤  价值声明 预注册 签证  0715 福州单认证，寄到中介
+预注册汇款什么时候汇 隐私条款通告是什么 PADOVA网站上的form A 是什么</description>
+    </item>
     
     <item>
       <title>Schedule of Measure Theory</title>
@@ -56,6 +68,15 @@
       
       <guid>https://totoroliux.github.io/2019/latex/</guid>
       <description>Bibliographic Style &amp;rdquo;&amp;rsquo; \usepackage[numbers]{natbib} # the numbered scheme \usepackage[authoryear]{natbib} # the author-year scheme \usepackage[authoryear,longnamesfirst]{natbib} &amp;ldquo;&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Finite Element Method</title>
+      <link>https://totoroliux.github.io/2019/fem/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/fem/</guid>
+      <description>Finite Element Method A classicial discriminative model.</description>
     </item>
     
     <item>

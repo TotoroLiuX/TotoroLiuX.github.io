@@ -5,8 +5,42 @@
     <description>Recent content in LeaveIt on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Schedule of</title>
+      <link>https://totoroliux.github.io/2019/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3/</guid>
+      <description>
+
+&lt;p&gt;已完成&lt;/p&gt;
+
+&lt;h2 id=&#34;本人概况&#34;&gt;本人概况&lt;/h2&gt;
+
+&lt;p&gt;本人本科在厦门，硕士也在厦门，2019年2月份换专业申请意大利应用数学硕士项目
+(Mathematical Engineering)，4月份收到Offer letter，按要求完成一些步骤后，
+收到admission letter，4到5月临近毕业季，5月开始各种找资料，5月中下旬毕业答辩
+结束后开始准备。&lt;/p&gt;
+
+&lt;h2 id=&#34;主要步骤&#34;&gt;主要步骤&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;价值声明&lt;/li&gt;
+&lt;li&gt;预注册&lt;/li&gt;
+&lt;li&gt;签证&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;0715
+福州单认证，寄到中介&lt;/p&gt;
+
+&lt;p&gt;预注册汇款什么时候汇
+隐私条款通告是什么
+PADOVA网站上的form A 是什么&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Schedule of Measure Theory</title>
@@ -399,6 +433,22 @@
 \usepackage[authoryear]{natbib}                # the author-year scheme
 \usepackage[authoryear,longnamesfirst]{natbib}
 &amp;ldquo;&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finite Element Method</title>
+      <link>https://totoroliux.github.io/2019/fem/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2019/fem/</guid>
+      <description>
+
+&lt;h2 id=&#34;finite-element-method&#34;&gt;Finite Element Method&lt;/h2&gt;
+
+&lt;p&gt;A classicial discriminative model.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://totoroliux.github.io/static/SVM.png&#34; alt=&#34;SVM&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -850,192 +900,6 @@ which has received &lt;strong&gt;10 contributions by 8 contributors&lt;/strong&g
 &lt;li&gt;Fix static filesystem for themed multihost sites &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/80c8f3b81a9849080e64bf877288ede28d960d3f&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;80c8f3b8&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4929&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4929&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Set permission of embedded templates to 0644 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/2b73e89d6d2822e86360a6c92c87f539677c119b&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;2b73e89d&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>And Now: Hugo Pipes!</title>
-      <link>https://totoroliux.github.io/2018/0.43-relnotes/</link>
-      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://totoroliux.github.io/2018/0.43-relnotes/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code&gt;Hugo `0.43` adds a powerful and very simple to use **Assets Pipeline** with **SASS and SCSS** with source map support, **PostCSS** and **minification** and **fingerprinting** and **Subresource Integrity** and ... much more. Oh, did we mention that you can now do **ad-hoc image processing** and execute text resources as Go templates?
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example pipeline:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-go-html-template&#34;&gt;{{ $styles := resources.Get &amp;quot;scss/main.scss&amp;quot; | toCSS | postCSS | minify | fingerprint }}
-&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;{{ $styles.Permalink }}&amp;quot; integrity=&amp;quot;{{ $styles.Data.Integrity }}&amp;quot; media=&amp;quot;screen&amp;quot;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;To me, the above is beautiful in its speed and simplicity. It could be printed on a t-shirt. I wrote in the &lt;a href=&#34;https://gohugo.io/news/lets-celebrate-hugos-5th-birthday/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Hugo Birthday Post&lt;/a&gt; some days ago about the value of a single binary with native and fast implementations. I should have added &lt;em&gt;simplicity&lt;/em&gt; as a keyword. There seem to be a misconception that all of this needs to be hard and painful.&lt;/p&gt;
-
-&lt;p&gt;New functions to create &lt;code&gt;Resource&lt;/code&gt; objects:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;resources.Get&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;resources.FromString&lt;/code&gt;: Create a Resource from a string.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;New &lt;code&gt;Resource&lt;/code&gt; transformation funcs:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;resources.ToCSS&lt;/code&gt;: Compile &lt;code&gt;SCSS&lt;/code&gt; or &lt;code&gt;SASS&lt;/code&gt; into &lt;code&gt;CSS&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;resources.PostCSS&lt;/code&gt;: Process your CSS with PostCSS. Config file support (project or theme or passed as an option).&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;resources.Minify&lt;/code&gt;: Currently supports &lt;code&gt;css&lt;/code&gt;, &lt;code&gt;js&lt;/code&gt;, &lt;code&gt;json&lt;/code&gt;, &lt;code&gt;html&lt;/code&gt;, &lt;code&gt;svg&lt;/code&gt;, &lt;code&gt;xml&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;resources.Fingerprint&lt;/code&gt;: Creates a fingerprinted version of the given Resource with Subresource Integrity.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;resources.Concat&lt;/code&gt;: Concatenates a list of Resource objects. Think of this as a poor man&amp;rsquo;s bundler.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;resources.ExecuteAsTemplate&lt;/code&gt;: Parses and executes the given Resource and data context (e.g. .Site) as a Go template.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I, &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;, implemented this in &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/dea71670c059ab4d5a42bd22503f18c087dd22d4&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;dea71670&lt;/a&gt;. We will work hard to get the documentation up to date, but follow the links above for details, and also see this &lt;a href=&#34;https://github.com/bep/hugo-sass-test&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;demo project&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This release represents &lt;strong&gt;35 contributions by 7 contributors&lt;/strong&gt; to the main Hugo code base.
-&lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; leads the Hugo development with a significant amount of contributions, but also a big shoutout to &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt;, &lt;a href=&#34;https://github.com/openscript&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@openscript&lt;/a&gt;, and &lt;a href=&#34;https://github.com/caarlos0&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@caarlos0&lt;/a&gt; for their ongoing contributions.
-And a big thanks to &lt;a href=&#34;https://github.com/digitalcraftsman&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@digitalcraftsman&lt;/a&gt; for his relentless work on keeping the themes site in pristine condition and to &lt;a href=&#34;https://github.com/kaushalmodi&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@kaushalmodi&lt;/a&gt; for his great work on the documentation site.&lt;/p&gt;
-
-&lt;p&gt;Many have also been busy writing and fixing the documentation in &lt;a href=&#34;https://github.com/gohugoio/hugoDocs&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;hugoDocs&lt;/a&gt;,
-which has received &lt;strong&gt;11 contributions by 5 contributors&lt;/strong&gt;. A special thanks to &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;, &lt;a href=&#34;https://github.com/danrl&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@danrl&lt;/a&gt;, &lt;a href=&#34;https://github.com/regisphilibert&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@regisphilibert&lt;/a&gt;, and &lt;a href=&#34;https://github.com/digitalcraftsman&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@digitalcraftsman&lt;/a&gt; for their work on the documentation site.&lt;/p&gt;
-
-&lt;p&gt;Hugo now has:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;26968+ &lt;a href=&#34;https://github.com/gohugoio/hugo/stargazers&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;stars&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;443+ &lt;a href=&#34;https://github.com/gohugoio/hugo/graphs/contributors&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;contributors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;238+ &lt;a href=&#34;http://themes.gohugo.io/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;themes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Replace deprecated {Get,}ByPrefix with {Get,}Match &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/42ed602580a672e420e1d860384e812f4871ff67&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;42ed6025&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hugo is now released with two binary version: One with and one without SCSS/SASS support. At the time of writing, this is only available in the binaries on the GitHub release page. Brew, Snap builds etc. will come. But note that you &lt;strong&gt;only need the extended version if you want to edit SCSS&lt;/strong&gt;. For your CI server, or if you don&amp;rsquo;t use SCSS, you will most likely want the non-extended version.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;enhancements&#34;&gt;Enhancements&lt;/h2&gt;
-
-&lt;h3 id=&#34;templates&#34;&gt;Templates&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Return en empty slice in &lt;code&gt;after&lt;/code&gt; instead of error &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/f8212d20009c4b5cc6e1ec733d09531eb6525d9f&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;f8212d20&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4894&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4894&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update internal pagination template to support Bootstrap 4 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/ca1e46efb94e3f3d2c8482cb9434d2f38ffd2683&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ca1e46ef&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4881&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4881&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support text/template/parse API change in go1.11 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/9f27091e1067875e2577c331acc60adaef5bb234&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;9f27091e&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4784&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4784&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;core&#34;&gt;Core&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Allow forward slash in shortcode names &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/de37455ec73cffd039b44e8f6c62d2884b1d6bbd&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;de37455e&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4886&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4886&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Reset the global pages cache on server rebuilds &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/128f14efad90886ffef37c01ac1e20436a732f97&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;128f14ef&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4845&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4845&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bump CircleCI image &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/e3df6478f09a7a5fed96aced791fa94fd2c35d1a&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;e3df6478&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add Goreleaser extended config &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/626afc98254421f5a5edc97c541b10bd81d5bbbb&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;626afc98&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4908&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4908&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Build both hugo and hugo.extended for 0.43 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/e1027c5846b48c4ad450f6cc27e2654c9e0dae39&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;e1027c58&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4908&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4908&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add temporary build script &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/bfc3488b8e8b3dc1ffc6a339ee2dac8dcbdb55a9&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;bfc3488b&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add &amp;ldquo;extended&amp;rdquo; to &amp;ldquo;hugo version&amp;rdquo; &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/ce84b524f4e94299b5b66afe7ce1a9bd4a9959fc&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ce84b524&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4913&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4913&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add a newScratch template func &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/2b8d907ab731627f4e2a30442cd729064516c8bb&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;2b8d907a&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4685&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4685&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add Hugo Piper with SCSS support and much more &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/dea71670c059ab4d5a42bd22503f18c087dd22d4&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;dea71670&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4381&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4381&lt;/a&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4903&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4903&lt;/a&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4858&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4858&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Consider root and current section&amp;rsquo;s content type if set in front matter &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/c790029e1dbb0b66af18d05764bd6045deb2e180&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;c790029e&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4891&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4891&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update docker image &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/554553c09c7657d28681e1fa0638806a452737a0&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;554553c0&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Merge branch &amp;lsquo;release-0.42.2&amp;rsquo; &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/282f6035e7c36f8550d91033e3a66718468c6c8b&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;282f6035&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Release 0.42.2 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/1637d12e3762fc1ebab4cd675f75afaf25f59cdb&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;1637d12e&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update GoReleaser config &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/1f0c4e1fb347bb233f3312c424fbf5a013c03604&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;1f0c4e1f&lt;/a&gt; &lt;a href=&#34;https://github.com/caarlos0&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@caarlos0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Create missing head.html partial on new theme generation &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/fd71fa89bd6c197402582c87b2b76d4b96d562bf&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;fd71fa89&lt;/a&gt; &lt;a href=&#34;https://github.com/openscript&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@openscript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add html doctype to baseof.html template for new themes &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/b5a3aa7082135d0a573f4fbb00f798e26b67b902&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;b5a3aa70&lt;/a&gt; &lt;a href=&#34;https://github.com/openscript&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@openscript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Adds .gitattributes to force Go files to LF &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/6a2968fd5c0116d93de0f379ac615e9076821899&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;6a2968fd&lt;/a&gt; &lt;a href=&#34;https://github.com/neurocline&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@neurocline&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update to Go 1.9.7 and Go 1.10.3 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/23d5fc82ee01d56440d0991c899acd31e9b63e27&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;23d5fc82&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update Dockerfile to a multi-stage build &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/8531ec7ca36fd35a57fba06bbb06a65c94dfd3ed&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;8531ec7c&lt;/a&gt; &lt;a href=&#34;https://github.com/skoblenick&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@skoblenick&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4154&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4154&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Release 0.42.1 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/d67e843c1212e1f53933556b5f946c8541188d9a&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;d67e843c&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Do not fail server build when /static is missing &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/34ee27a78b9e2b5f475d44253ae234067b76cc6e&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;34ee27a7&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4846&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4846&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;fixes&#34;&gt;Fixes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Do not create paginator pages for the other output formats &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/43338c3a99769eb7d0df0c12559b8b3d42b67dba&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;43338c3a&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4890&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4890&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix the shortcodes/partials vs base template detection &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/a5d0a57e6bdab583134a68c035aac9b3007f006a&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;a5d0a57e&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4897&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4897&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;nfpm replacements &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/e1a052ecb823c688406a8af97dfaaf52a75231da&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;e1a052ec&lt;/a&gt; &lt;a href=&#34;https://github.com/caarlos0&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@caarlos0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix typos &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/3cea2932e17a08ebc19cd05f3079d9379bc8fba5&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;3cea2932&lt;/a&gt; &lt;a href=&#34;https://github.com/idealhack&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@idealhack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HTTP/2 Server Push in Hugo</title>
-      <link>https://totoroliux.github.io/2017/http2-server-push-in-hugo/</link>
-      <pubDate>Mon, 24 Jul 2017 18:36:00 +0200</pubDate>
-      
-      <guid>https://totoroliux.github.io/2017/http2-server-push-in-hugo/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Netlify&lt;/strong&gt; recently announced support for &lt;a href=&#34;https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;HTTP/2 server push&lt;/a&gt;, and we have now added it to the &lt;strong&gt;gohugo.io&lt;/strong&gt; sites for the main &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JS&lt;/code&gt; bundles, along with server-side 301 redirect support.&lt;/p&gt;
-
-&lt;p&gt;If you navigate to &lt;a href=&#34;https://gohugo.io&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://gohugo.io&lt;/a&gt; and look in the Chrome developer network console, you should now see &lt;code&gt;Push&lt;/code&gt; as the new source (&amp;ldquo;Initiator&amp;rdquo;) for the &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JSS&lt;/code&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Setting up this in Hugo was easy:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-configure-netlify-output-formats&#34;&gt;1. Configure Netlify Output Formats&lt;/h2&gt;
-
-&lt;p&gt;Add a new custom media type and two new output formats to &lt;code&gt;config.toml&lt;/code&gt;. For more on output formats in Hugo, see &lt;a href=&#34;https://totoroliux.github.io/templates/output-formats/&#34;&gt;Custom Output Formats&lt;/a&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;[outputs]
-home = [ &amp;quot;HTML&amp;quot;, &amp;quot;RSS&amp;quot;, &amp;quot;REDIR&amp;quot;, &amp;quot;HEADERS&amp;quot; ]
-
-[mediaTypes]
-[mediaTypes.&amp;quot;text/netlify&amp;quot;]
-suffix = &amp;quot;&amp;quot;
-delimiter = &amp;quot;&amp;quot;
-
-[outputFormats]
-[outputFormats.REDIR]
-mediatype = &amp;quot;text/netlify&amp;quot;
-baseName = &amp;quot;_redirects&amp;quot;
-isPlainText = true
-notAlternative = true
-[outputFormats.HEADERS]
-mediatype = &amp;quot;text/netlify&amp;quot;
-baseName = &amp;quot;_headers&amp;quot;
-isPlainText = true
-notAlternative = true
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;2-add-template-for-the-headers-file&#34;&gt;2. Add Template For the _headers File&lt;/h2&gt;
-
-&lt;p&gt;Add &lt;code&gt;layouts/index.headers&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;/*
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: origin-when-cross-origin
-*/
-  Link: &amp;lt;{{ &amp;quot;dist/app.bundle.js&amp;quot; | relURL }}&amp;gt;; rel=preload; as=script
-  Link: &amp;lt;{{ &amp;quot;dist/main.css&amp;quot; | relURL }}&amp;gt;; rel=preload; as=style
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The template above creates both a security header definition and a HTTP/2 server push configuration.&lt;/p&gt;
-
-&lt;p&gt;Also note that this is a template for the home page, so the full &lt;code&gt;Page&lt;/code&gt; with its &lt;code&gt;Site&lt;/code&gt; and many variables are available. You can also use &lt;code&gt;partial&lt;/code&gt; to include other templates.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-add-template-for-the-redirects-file&#34;&gt;3. Add Template For the _redirects File&lt;/h2&gt;
-
-&lt;p&gt;Add &lt;code&gt;layouts/index.redir&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# Netlify redirects. See https://www.netlify.com/docs/redirects/
-{{  range $p := .Site.Pages -}}
-{{ range .Aliases }}
-{{  . | printf &amp;quot;%-35s&amp;quot; }}   {{ $p.RelPermalink -}}
-{{ end -}}
-{{- end -}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The template above creates 301 redirects for your &lt;a href=&#34;https://totoroliux.github.io/content-management/urls/#aliases&#34;&gt;aliases&lt;/a&gt;, so you will probably want to turn off aliases in your &lt;code&gt;config.toml&lt;/code&gt;: &lt;code&gt;disableAliases = true&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
