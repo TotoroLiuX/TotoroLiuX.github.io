@@ -18,7 +18,7 @@
       
       <guid>https://totoroliux.github.io/2020/dynamicasystem/</guid>
       <description>Standard Map \[ \begin{align} \theta_{n+1} &amp; = \theta_n + I_n, \\ I_{n+1} &amp; = I_n + \varepsilon\sin(\theta_n + I_n) \end{align} \]
-where the angle $\theta$</description>
+where the angle \theta</description>
     </item>
     
     <item>
