@@ -17,7 +17,7 @@
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://totoroliux.github.io/2020/dynamicasystem/</guid>
-      <description>Standard Map \[ \begin{align} \theta_{n+1} &amp; = \theta_n + I_n, \\ I_{n+1} &amp; = I_n + \varepsilon\sin(\theta_n + I_n) \end{align} \]
+      <description>Standard Map $$ \begin{align} \theta_{n+1} &amp;amp; = \theta_n + In, I{n+1} &amp;amp; = I_n + \varepsilon\sin(\theta_n + I_n) \end{align} $$
 where the angle $\theta$</description>
     </item>
     

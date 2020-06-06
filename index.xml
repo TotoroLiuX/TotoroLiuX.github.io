@@ -14,14 +14,16 @@
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://totoroliux.github.io/2020/dynamicasystem/</guid>
-      <description>&lt;h2 id=&#34;standard-map&#34;&gt;Standard Map&lt;/h2&gt;
+      <description>
 
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[
+&lt;h2 id=&#34;standard-map&#34;&gt;Standard Map&lt;/h2&gt;
+
+&lt;p&gt;$$
 \begin{align}
-\theta_{n+1} &amp; = \theta_n + I_n, \\
-I_{n+1} &amp; = I_n + \varepsilon\sin(\theta_n + I_n)
+\theta_{n+1} &amp;amp; = \theta_n + I&lt;em&gt;n, &lt;br /&gt;
+I&lt;/em&gt;{n+1} &amp;amp; = I_n + \varepsilon\sin(\theta_n + I_n)
 \end{align}
-\]&lt;/span&gt;&lt;/p&gt;
+$$&lt;/p&gt;
 
 &lt;p&gt;where the angle $\theta$&lt;/p&gt;
 </description>
