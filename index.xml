@@ -24,6 +24,10 @@ I_{n+1} &amp; = I_n + \varepsilon\sin(\theta_n + I_n)
 \]&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;where the angle $\theta$&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://totoroliux.github.io/static/standard_.png&#34; alt=&#34;standardMap&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://totoroliux.github.io/static/standard_homoclinic.png&#34; alt=&#34;standardMapHomoclinic&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
     
