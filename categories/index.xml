@@ -6,10 +6,19 @@
     <description>Recent content in Categories on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://totoroliux.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DynamicalSystem</title>
+      <link>https://totoroliux.github.io/categories/dynamicalsystem/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/categories/dynamicalsystem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uncategoried</title>
@@ -71,15 +80,6 @@
       <pubDate>Mon, 24 Jul 2017 18:36:00 +0200</pubDate>
       
       <guid>https://totoroliux.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical</title>
-      <link>https://totoroliux.github.io/categories/dynamical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://totoroliux.github.io/categories/dynamical/</guid>
       <description></description>
     </item>
     

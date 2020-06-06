@@ -6,10 +6,20 @@
     <description>Recent content in Posts on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://totoroliux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Standard Map</title>
+      <link>https://totoroliux.github.io/2020/dynamicasystem/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2020/dynamicasystem/</guid>
+      <description>Standard Map $$ \begin{align} \theta_{n+1} &amp;amp; = \theta_n + In, I{n+1} &amp;amp; = I_n + \varepsilon\sin(\theta_n + I_n) \end{align} $$
+where the angle $\theta$</description>
+    </item>
     
     <item>
       <title>Schedule of</title>
@@ -131,16 +141,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Standard Map</title>
-      <link>https://totoroliux.github.io/1/dynamicasystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://totoroliux.github.io/1/dynamicasystem/</guid>
-      <description>Standard Map $$ \begin{align} \theta_{n+1} &amp;amp; = \theta_n + In, I{n+1} &amp;amp; = I_n + \varepsilon\sin(\theta_n + I_n) \end{align} $$
-where the angle $\theta$</description>
     </item>
     
   </channel>

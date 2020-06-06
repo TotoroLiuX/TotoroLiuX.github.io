@@ -5,8 +5,29 @@
     <description>Recent content in LeaveIt on LeaveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_cn</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Standard Map</title>
+      <link>https://totoroliux.github.io/2020/dynamicasystem/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://totoroliux.github.io/2020/dynamicasystem/</guid>
+      <description>
+
+&lt;h2 id=&#34;standard-map&#34;&gt;Standard Map&lt;/h2&gt;
+
+&lt;p&gt;$$
+\begin{align}
+\theta_{n+1} &amp;amp; = \theta_n + I&lt;em&gt;n, &lt;br /&gt;
+I&lt;/em&gt;{n+1} &amp;amp; = I_n + \varepsilon\sin(\theta_n + I_n)
+\end{align}
+$$&lt;/p&gt;
+
+&lt;p&gt;where the angle $\theta$&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Schedule of</title>
@@ -849,56 +870,6 @@ which has received &lt;strong&gt;10 contributions by 8 contributors&lt;/strong&g
 &lt;li&gt;Enable test case fixed by commit 501543d4 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/d6fde8fa131f3852fa98a8ec5c360e736486cf54&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;d6fde8fa&lt;/a&gt; &lt;a href=&#34;https://github.com/vassudanagunta&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@vassudanagunta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Fix theme config for Work Fs &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/5c9d5413a4e2cc8d44a8b2d7dff04e6523ba2a29&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;5c9d5413&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4951&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4951&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Fix addkit link to account for i18n &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/fd1f4a7860c4b989865b47c727239cf924a52fa4&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;fd1f4a78&lt;/a&gt; &lt;a href=&#34;https://github.com/hairmare&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@hairmare&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo 0.44: Friday the 13th Edition</title>
-      <link>https://totoroliux.github.io/2018/0.44-relnotes/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://totoroliux.github.io/2018/0.44-relnotes/</guid>
-      <description>
-
-&lt;p&gt;Hugo &lt;code&gt;0.44&lt;/code&gt; is the follow-up release, or &lt;strong&gt;The Sequel&lt;/strong&gt;, of the very well received &lt;code&gt;0.43&lt;/code&gt; only days ago. That release added &lt;strong&gt;Hugo Pipes&lt;/strong&gt;, with SCSS/SASS support, assets bundling and minification, ad-hoc image processing and much more.&lt;/p&gt;
-
-&lt;p&gt;This is mostly a bug-fix release, but it also includes several important improvements.&lt;/p&gt;
-
-&lt;p&gt;Many complained that their SVG images vanished when browsed from the &lt;code&gt;hugo server&lt;/code&gt;. With &lt;strong&gt;Hugo Pipes&lt;/strong&gt; MIME types suddenly got really important, but Hugo&amp;rsquo;s use of &lt;code&gt;Suffix&lt;/code&gt; was ambiguous. This became visible when we redefined the &lt;code&gt;image/svg+xml&lt;/code&gt; to work with &lt;strong&gt;Hugo Pipes&lt;/strong&gt;. We have now added a &lt;code&gt;Suffixes&lt;/code&gt; field on the MIME type definition in Hugo, which is a list of one or more filename suffixes the MIME type is identified with. If you need to add a custom MIME type definition, this means that you also need to specify the full MIME type as the key, e.g. &lt;code&gt;image/svg+xml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hugo now has:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;27120+ &lt;a href=&#34;https://github.com/gohugoio/hugo/stargazers&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;stars&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;443+ &lt;a href=&#34;https://github.com/gohugoio/hugo/graphs/contributors&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;contributors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;239+ &lt;a href=&#34;http://themes.gohugo.io/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;themes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;MediaType.Suffix&lt;/code&gt; is deprecated and replaced with a plural version,  &lt;code&gt;MediaType.Suffixes&lt;/code&gt;, with a more specific definition. You will get a detailed WARNING in the console if you need to do anything.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;enhancements&#34;&gt;Enhancements&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Allow multiple file suffixes per media type &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/b874a1ba7ab8394dc741c8c70303a30a35b63e43&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;b874a1ba&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4920&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4920&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Clean up the in-memory Resource reader usage &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/47d38628ec0f4e72ff17661f13456b2a1511fe13&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;47d38628&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4936&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4936&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Move opening of the transformed resources after cache check &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/0024dcfe3e016c67046de06d1dac5e7f5235f9e1&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;0024dcfe&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Improve type support in &lt;code&gt;resources.Concat&lt;/code&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/306573def0e20ec16ee5c447981cc09ed8bb7ec7&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;306573de&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4934&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4934&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Flush &lt;code&gt;partialCached&lt;/code&gt; cache on rebuilds &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/6b6dcb44a014699c289bf32fe57d4c4216777be0&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;6b6dcb44&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4931&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4931&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Include the transformation step in the error message &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/d96f2a460f58e91d8f6253a489d4879acfec6916&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;d96f2a46&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4924&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4924&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Exclude *.svg from CRLF/LF conversion &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/9c1e82085eb07d5b4dcdacbe82d5bafd26e08631&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;9c1e8208&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;fixes&#34;&gt;Fixes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fix &lt;code&gt;resources.Concat&lt;/code&gt; for transformed resources &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/beec1fc98e5d37bba742d6bc2a0ff7c344b469f8&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;beec1fc9&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4936&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4936&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix static filesystem for themed multihost sites &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/80c8f3b81a9849080e64bf877288ede28d960d3f&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;80c8f3b8&lt;/a&gt; &lt;a href=&#34;https://github.com/bep&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@bep&lt;/a&gt; &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4929&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;#4929&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Set permission of embedded templates to 0644 &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/2b73e89d6d2822e86360a6c92c87f539677c119b&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;2b73e89d&lt;/a&gt; &lt;a href=&#34;https://github.com/anthonyfok&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@anthonyfok&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
